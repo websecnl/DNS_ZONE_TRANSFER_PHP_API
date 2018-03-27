@@ -1,5 +1,5 @@
 <?php
-# Coded by Joel A. Ossi
+// Coded by Joel A. Ossi
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
